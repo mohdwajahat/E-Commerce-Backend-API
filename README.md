@@ -42,7 +42,7 @@ A TypeScript-based Express backend for an e-commerce application with authentica
 1. Clone the repository
 
 ```bash
-git clone [<repo-url>](https://github.com/mohdwajahat/E-Commerce-Backend-API.git)
+git clone https://github.com/mohdwajahat/E-Commerce-Backend-API.git
 cd E-Commerce
 ```
 
